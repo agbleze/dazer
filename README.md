@@ -5,3 +5,6 @@ The package satisfy both model training and the presentation of the model diagno
 
 # How to use
 The package can be run from the command line / terminal 
+
+
+# How to contribute
