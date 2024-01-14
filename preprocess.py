@@ -11,7 +11,8 @@ from matplotlib import pyplot
 
 
 ## How package is expected to be used
-#1. 
+#1. developer preovides path of data and the target variable in the data 
+#2. data format is csv for now,
 
 
 
