@@ -16,6 +16,7 @@ from matplotlib import pyplot
 #3. option to specify data type of the columns
 # option to define tabs to show on ui after training, mapping to change the names of the tabs with dict 
 #4. data format is csv for now,
+# option to define whether to export code
 #5. the parameters to pass can defined in a config file of format json
 
 
@@ -37,7 +38,16 @@ from matplotlib import pyplot
 
 
 
-
+## what the package does
+# the package preprocesses the data, undertakes feature engineering, defines anumber of models based on target var,
+# and train each of those models, evaluate model using cross validation of 20 steps using metric define and stores the
+# results. 
+#. The exported results is then read and visualized on a dash app
+# The predictors are used to define type of inputs and their unique values used to define values to select from 
+# on the prediction page.
+# The best model based on metrics is selected, exported and used to build an API which is run
+# Each time a user selects inputs and click the predict button on the prediction page, the values are sent to the api,
+# prediction is made and results are sent back. The results are preprocess and displayed on the prediction page
 
 
 
