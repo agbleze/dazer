@@ -11,8 +11,10 @@ from matplotlib import pyplot
 
 
 ## How package is expected to be used
-#1. developer preovides path of data and the target variable in the data 
-#2. data format is csv for now,
+#1. developer preovides path of data and the target variable in the data.
+#2 has option to also specify column names of predictors to use. if not provided, all columns will be used
+#3. option to specify data type of the columns 
+#4. data format is csv for now,
 
 
 
