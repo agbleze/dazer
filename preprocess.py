@@ -10,6 +10,9 @@ from matplotlib import pyplot
 # 2. create a UI that visualize the model metrics for each model after training
 
 
+## How package is expected to be used
+#1. 
+
 
 
 
