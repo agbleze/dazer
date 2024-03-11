@@ -6,7 +6,8 @@ The package satisfy both model training and the presentation of the model diagno
 1. Specify the algorithms to run
 
 # How to use
-The package can be run from the command line / terminal 
+The package can be run from the command line / terminal.
+First,config file needs to be provided
 
 
 # How to contribute
