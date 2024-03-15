@@ -7,7 +7,7 @@ The package satisfy both model training and the presentation of the model diagno
 
 # How to use
 The package can be run from the command line / terminal.
-First,config file needs to be provided. In the config file specify the data source
+First,config file needs to be provided. In the config file specify the data source, data structure
 
 
 # How to contribute
