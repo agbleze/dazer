@@ -14,3 +14,6 @@ First,config file needs to be provided. In the config file specify the data sour
 
 # How to contribute
 1. Tutorials
+
+
+# installation
